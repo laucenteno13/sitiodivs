@@ -1,0 +1,119 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#content {
+}
+#header {
+	height: 80px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-color: #DC7923;
+}
+#navega {
+	height: 30px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-color: #FFF500;
+}
+#banner {
+	height: 200px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-color: #8FE96A;
+}
+#mainhead {
+	background-color: #EC75E8;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	margin-bottom: 10px;
+	height: 30px;
+}
+#contenido {
+	height: 600px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-color: #F0EA9E;
+}
+#footer {
+	height: 150px;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	background-color: #FF0004;
+}
+#leftside {
+	background-color: #31cdc1;
+}
+#leftside {
+	background-color: #31cdc1;
+	padding: 10px;
+	float: left;
+	height: 580px;
+	width: 40%;
+	margin-right: 15px;
+}
+#rightside {
+    background-color: #312fbf;
+    padding: 10px;
+    float: right;
+    height: 580px;
+    width: 55%;
+}
+#menufijo {
+    background-color: #007811;
+    margin-left: 33%;
+    position: fixed;
+}
+#c1 {
+    background-color: #ff0004;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 1;
+    left: 291px;
+    top: 511px;
+}
+#c2 {
+    background-color: #f0ff00;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 2;
+}
+#c3 {
+    background-color: #2ce835;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 3;
+}
+#c4 {
+    background-color: #2e31e0;
+    position: absolute;
+    z-index: 4;
+    height: 120px;
+    width: 120px;
+}
+#c5 {
+    background-color: #9410a0;
+    height: 120px;
+    width: 120px;
+    position: absolute;
+    z-index: 5;
+}
